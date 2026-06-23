@@ -4,4 +4,4 @@ pandas
 matplotlib
 yfinance
 scikit-learn
-tensorflow
+tensorflow-cpu
